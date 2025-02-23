@@ -58,7 +58,7 @@ body * {
 /*switch*/
 #switch {
   position: relative;
-  width: 64px;
+  width: 83px;
 
   margin: 4px auto;
 }
@@ -88,8 +88,8 @@ body * {
 
 #switch span {
   display: block;
-  width: 64px;
-  height: 24px;
+  width: 75px;
+  height: 35px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
   backdrop-filter: blur(4px);
