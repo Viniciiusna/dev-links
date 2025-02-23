@@ -6,5 +6,5 @@ function togglemode() {
   //} else {
   //    html.classList.add('light')
 
-  html.body.classList.toggle("light");
+  html.classList.toggle("light")
 }
