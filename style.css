@@ -84,6 +84,7 @@ body * {
 
 .light #switch button {
   animation: slide-in 0.2s forwards;
+  left: initial;
 }
 
 #switch span {
